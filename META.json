@@ -1,5 +1,5 @@
 {
-   "abstract" : "<One-line description of module's purpose>",
+   "abstract" : "The base object for WADL clients.",
    "author" : [
       "Ivan Wills <ivan.wills@gmail.com>"
    ],
@@ -58,87 +58,79 @@
    "provides" : {
       "W3C::SOAP::WADL" : {
          "file" : "lib/W3C/SOAP/WADL.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document" : {
          "file" : "lib/W3C/SOAP/WADL/Document.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Doc" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Doc.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Grammars" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Grammars.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Link" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Link.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Method" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Method.pm",
-         "version" : "v0.0.1"
-      },
-      "W3C::SOAP::WADL::Document::Node" : {
-         "file" : "lib/W3C/SOAP/WADL/Document/Node.pm",
-         "version" : "v0.0.7"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Option" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Option.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Param" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Param.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Representation" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Representation.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Request" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Request.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Resource" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Resource.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::ResourceType" : {
          "file" : "lib/W3C/SOAP/WADL/Document/ResourceType.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Resources" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Resources.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Document::Response" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Response.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Element" : {
          "file" : "lib/W3C/SOAP/WADL/Element.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Meta::Method" : {
          "file" : "lib/W3C/SOAP/WADL/Meta/Method.pm",
          "version" : "v0.0.7"
       },
-      "W3C::SOAP::WADL::Node" : {
-         "file" : "lib/W3C/SOAP/WADL/Node.pm",
-         "version" : "v0.0.1"
-      },
       "W3C::SOAP::WADL::Parser" : {
          "file" : "lib/W3C/SOAP/WADL/Parser.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Traits" : {
          "file" : "lib/W3C/SOAP/WADL/Traits.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       },
       "W3C::SOAP::WADL::Utils" : {
          "file" : "lib/W3C/SOAP/WADL/Utils.pm",
-         "version" : "v0.0.1"
+         "version" : "0.002"
       }
    },
    "release_status" : "stable",
@@ -153,5 +145,5 @@
          "url" : "git://github.com/ivanwills/W3C-SOAP-WADL.git"
       }
    },
-   "version" : "v0.0.1"
+   "version" : "0.002"
 }

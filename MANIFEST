@@ -14,7 +14,6 @@ lib/W3C/SOAP/WADL/Document/Doc.pm
 lib/W3C/SOAP/WADL/Document/Grammars.pm
 lib/W3C/SOAP/WADL/Document/Link.pm
 lib/W3C/SOAP/WADL/Document/Method.pm
-lib/W3C/SOAP/WADL/Document/Node.pm
 lib/W3C/SOAP/WADL/Document/Option.pm
 lib/W3C/SOAP/WADL/Document/Param.pm
 lib/W3C/SOAP/WADL/Document/Representation.pm
@@ -25,7 +24,6 @@ lib/W3C/SOAP/WADL/Document/ResourceType.pm
 lib/W3C/SOAP/WADL/Document/Response.pm
 lib/W3C/SOAP/WADL/Element.pm
 lib/W3C/SOAP/WADL/Meta/Method.pm
-lib/W3C/SOAP/WADL/Node.pm
 lib/W3C/SOAP/WADL/Parser.pm
 lib/W3C/SOAP/WADL/Traits.pm
 lib/W3C/SOAP/WADL/Utils.pm

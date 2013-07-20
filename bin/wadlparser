@@ -19,7 +19,7 @@ use W3C::SOAP::WADL::Parser;
 use File::ShareDir qw/dist_dir/;
 use Template;
 
-our $VERSION = version->new('0.0.1');
+our $VERSION = version->new('0.002');
 my ($name)   = $PROGRAM_NAME =~ m{^.*/(.*?)$}mxs;
 
 my %option = (
@@ -185,9 +185,9 @@ This documentation refers to wadlparser version 0.1.
  OPTIONS:
   -s --show     Show some info about the passed WADL file
   -b --module-base[=]str
-                    Let the program auto generate package names with this value
-                    as the base of the module name. (Note packages will be valid
-                    but not pretty)
+                Let the program auto generate package names with this value
+                as the base of the module name. (Note packages names will
+                be valid but not pretty)
   -n --namespace-map ns=package
                 A mapping of XSD namespaces (ns) to perl package names, it
                 is required when writing XSD files
