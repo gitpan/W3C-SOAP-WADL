@@ -58,63 +58,63 @@
    "provides" : {
       "W3C::SOAP::WADL" : {
          "file" : "lib/W3C/SOAP/WADL.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document" : {
          "file" : "lib/W3C/SOAP/WADL/Document.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Doc" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Doc.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Grammars" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Grammars.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Link" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Link.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Method" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Method.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Option" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Option.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Param" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Param.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Representation" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Representation.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Request" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Request.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Resource" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Resource.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::ResourceType" : {
          "file" : "lib/W3C/SOAP/WADL/Document/ResourceType.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Resources" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Resources.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Document::Response" : {
          "file" : "lib/W3C/SOAP/WADL/Document/Response.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Element" : {
          "file" : "lib/W3C/SOAP/WADL/Element.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Meta::Method" : {
          "file" : "lib/W3C/SOAP/WADL/Meta/Method.pm",
@@ -122,15 +122,15 @@
       },
       "W3C::SOAP::WADL::Parser" : {
          "file" : "lib/W3C/SOAP/WADL/Parser.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Traits" : {
          "file" : "lib/W3C/SOAP/WADL/Traits.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       },
       "W3C::SOAP::WADL::Utils" : {
          "file" : "lib/W3C/SOAP/WADL/Utils.pm",
-         "version" : "0.003"
+         "version" : "0.004"
       }
    },
    "release_status" : "stable",
@@ -145,5 +145,5 @@
          "url" : "git://github.com/ivanwills/W3C-SOAP-WADL.git"
       }
    },
-   "version" : "0.003"
+   "version" : "0.004"
 }
